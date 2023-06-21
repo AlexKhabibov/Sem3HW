@@ -1,0 +1,10 @@
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/HWsem3/obj/Debug/net6.0/HWsem3.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/HWsem3/obj/Debug/net6.0/HWsem3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/HWsem3/obj/Debug/net6.0/HWsem3.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/HWsem3/obj/Debug/net6.0/HWsem3.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/HWsem3/obj/Debug/net6.0/HWsem3.csproj.CoreCompileInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwdem3task19/obj/Debug/net6.0/HWsem3.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwdem3task19/obj/Debug/net6.0/HWsem3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwdem3task19/obj/Debug/net6.0/HWsem3.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwdem3task19/obj/Debug/net6.0/HWsem3.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwdem3task19/obj/Debug/net6.0/HWsem3.csproj.CoreCompileInputs.cache

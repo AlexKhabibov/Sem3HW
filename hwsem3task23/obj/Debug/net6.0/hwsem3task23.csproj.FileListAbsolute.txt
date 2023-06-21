@@ -1,0 +1,15 @@
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/obj/Debug/net6.0/hwsem3task23.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/obj/Debug/net6.0/hwsem3task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/obj/Debug/net6.0/hwsem3task23.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/obj/Debug/net6.0/hwsem3task23.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/obj/Debug/net6.0/hwsem3task23.csproj.CoreCompileInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/bin/Debug/net6.0/hwsem3task23
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/bin/Debug/net6.0/hwsem3task23.deps.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/bin/Debug/net6.0/hwsem3task23.runtimeconfig.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/bin/Debug/net6.0/hwsem3task23.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/bin/Debug/net6.0/hwsem3task23.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/obj/Debug/net6.0/hwsem3task23.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/obj/Debug/net6.0/refint/hwsem3task23.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/obj/Debug/net6.0/hwsem3task23.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/obj/Debug/net6.0/hwsem3task23.genruntimeconfig.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 3. Базовые алгоритмы. Продолжение. Семинар 3/CWsem3/hwsem3task23/obj/Debug/net6.0/ref/hwsem3task23.dll
